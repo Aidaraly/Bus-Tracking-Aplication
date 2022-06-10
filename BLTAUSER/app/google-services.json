@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "555532484420",
+    "firebase_url": "https://blta-driver-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blta-driver",
+    "storage_bucket": "blta-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555532484420:android:81ea6f440c12153d23a111",
+        "android_client_info": {
+          "package_name": "com.example.blta_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555532484420-kod94v4ngr5pv21q9lrgu6u0d51cveiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWmQOEuuNDPtCGAuilc12Ox76v5pavX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555532484420-kod94v4ngr5pv21q9lrgu6u0d51cveiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555532484420:android:39592d8d40a1c44b23a111",
+        "android_client_info": {
+          "package_name": "com.example.blta_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555532484420-kod94v4ngr5pv21q9lrgu6u0d51cveiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWmQOEuuNDPtCGAuilc12Ox76v5pavX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555532484420-kod94v4ngr5pv21q9lrgu6u0d51cveiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
